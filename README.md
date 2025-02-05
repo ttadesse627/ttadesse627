@@ -22,7 +22,7 @@ I’m Tesfaye Tadesse, a **Junior Software Developer** with over **1.5 years of 
 
 ## 🏆 Certifications  
 - [**Scrum Fundamental Certified (SFC)** – Agile Development Methodology (SCRUMstudy)](https://www.scrumstudy.com/certification/verify?type=SFC&number=965929)
-- [**Data Analysis Fundamentals** – Udacity Nanodegree](www.udacity.com/certificate/e/49a2aa7a-4bf8-11ef-9ee7-af594eae9c42)  
+- [**Data Analysis Fundamentals** – Udacity Nanodegree](https://www.udacity.com/certificate/e/49a2aa7a-4bf8-11ef-9ee7-af594eae9c42)  
 
 ## 🔗 Connect With Me  
 - 📧 Email: [ttadesse627@gmail.com](mailto:ttadesse627@gmail.com)  

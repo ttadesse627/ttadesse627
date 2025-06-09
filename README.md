@@ -13,10 +13,6 @@ I’m Tesfaye Tadesse, a **Software Developer** with over **two years of experie
 - Developed and tested **multiple projects**, ensuring high-quality deliverables.  
 - Identified and reported bugs to improve system reliability.  
 
-### **IT Intern | Addis Ababa Science & Technology University (08/2022 – 10/2022)**  
-- Developed a **Class Scheduler System** using Java, JSP, and MySQL.  
-- Gained real-world industry experience in software development.  
-
 ## 🏆 Certifications  
 - [**Scrum Fundamental Certified (SFC)** – Agile Development Methodology (SCRUMstudy)](https://www.scrumstudy.com/certification/verify?type=SFC&number=965929)
 - [**Data Analysis Fundamentals** – Udacity Nanodegree](https://www.udacity.com/certificate/e/49a2aa7a-4bf8-11ef-9ee7-af594eae9c42)  

@@ -1,17 +1,14 @@
-# 🚀 Tesfaye Tadesse – Junior Software Developer  
+# 🚀 Tesfaye Tadesse – Software Developer  
 
 ## 👋 About Me  
-I’m Tesfaye Tadesse, a **Junior Software Developer** with over **1.5 years of experience** in building and testing scalable applications. I have a strong passion for learning and problem-solving, and I thrive in collaborative environments that use Agile methodologies.  
+I’m Tesfaye Tadesse, a **Software Developer** with over **two years of experience** in building and testing scalable applications. I have a strong passion for learning and problem-solving, and I thrive in collaborative environments that use Agile methodologies.  
 
 ## 🔧 Skills & Technologies  
 - **Backend:** ASP.NET Core, C#, Java  
-- **Frontend:** React, Angular  
-- **Databases:** MySQL, SQL Server  
-- **Tools & Practices:** REST API Development, Database Design, Agile (Scrum), Version Control (Git, GitHub, Azure DevOps)  
-- **Testing:** JMeter, Postman  
+- **Frontend:** React, Angular
 
 ## 💼 Experience  
-### **Junior Software Developer | Appdiv Systems (03/2023 – Present)**  
+### **Software Developer | Appdiv Systems (03/2023 – Present)**  
 - Designed and implemented **database schemas and APIs** using ASP.NET Core.  
 - Developed and tested **multiple projects**, ensuring high-quality deliverables.  
 - Identified and reported bugs to improve system reliability.  

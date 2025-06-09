@@ -23,5 +23,6 @@ I’m Tesfaye Tadesse, a **Software Developer** with over **two years of experie
 
 ## 🔗 Connect With Me  
 - 📧 Email: [ttadesse627@gmail.com](mailto:ttadesse627@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/tesfaye-tadesse-41b2b624b](https://linkedin.com/in/tesfaye-tadesse-41b2b624b)  
+- 🔗 LinkedIn: [linkedin.com/in/tesfaye-tadesse-41b2b624b](https://linkedin.com/in/tesfaye-tadesse-41b2b624b)
+-    Telegram: [@ttadesse627](https://t.me/ttadesse627)
 
